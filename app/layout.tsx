@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kodo",
+  title: "Kodo Preview",
   description: "Your last next terminal agent",
 };
 
